@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35201.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElsaStudioBlazorServer", "ElsaStudioBlazorServer.csproj", "{8865D3C2-6222-461D-9394-9CFCD4B5C20C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8865D3C2-6222-461D-9394-9CFCD4B5C20C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8865D3C2-6222-461D-9394-9CFCD4B5C20C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8865D3C2-6222-461D-9394-9CFCD4B5C20C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8865D3C2-6222-461D-9394-9CFCD4B5C20C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B9B557B-7811-4FF4-835F-E3816346F120}
+	EndGlobalSection
+EndGlobal
